@@ -9,9 +9,9 @@
   </a>
 </p>
 
-Hello! I first discovered my passion for programming during my high school years when I would fiddle with Lua on Roblox. I was always curious about how the code worked, and one day stumbled upon an tutorial for creating a simple sword damage script. I found myself fascinated with the process of turning lines of code into actual items in the game.
+Hello! I first discovered my passion for programming during my high school years when I would experiment with Lua. I found myself fascinated with the process of turning lines of code into something usable.
 
-From there, I started exploring different programming languages and continued to teach myself and practice programming. Eventually when it came time to go to college I chose to study Computer Programming. After graduating, I decided to focus my career on web development.
+From there, I started exploring different programming languages and continued to teach myself and practice programming. Eventually, when it came time to go to college, I chose to study Computer Programming. After graduating, I decided to focus my career on web development.
 
 
 <h1 align="center">Favorite repositories</h1>
